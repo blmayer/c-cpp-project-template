@@ -18,13 +18,15 @@
 
 - src: Contains source files, if the project is modularized subfolders should be used, for example src/mod1;
 
-- obj: Temporary folder to store object files created by the compilation process, normally cleansed by the clean makefile target.
+- obj: Temporary folder to store object files created by the compilation process, normally cleansed by the clean makefile target;
 
-- LICENSE: Speaks by itself; &
+- [LICENSE](LICENSE): Open Source License describing how to use, change, and distribute this repository; &
 
 - build: Build information;
 
 - version: Holds the current version of the software, sometimes named release;
+
+- [CONTRIBUTING](CONTRIBUTING): File describing how to contribute with this repository;
 
 - README: This file.
 
@@ -36,15 +38,16 @@
 
 There are lots of things to do, the ones in my mind now are listed below.
 
+- Finish [community standards](https://github.com/blmayer/c-cpp-project-template/community).
 - Implement automatic dependency generation.
 
 ## Meta
 
 Created by: Brian Mayer - bleemayer@gmail.com	
 Inital commit: Apr, 21, 2018
-Distributed under the Unlicense. See ``LICENSE`` for more information.
+Distributed under the Unlicense. See [LICENSE](LICENSE) for more information.
 
 ## Contributing
 
-Check the *contributing* file for details, but, in advance, it is pretty intuitive and straightforward.
+Check the [CONTRIBUTING](CONTRIBUTING) file for details, but, in advance, it is pretty intuitive and straightforward.
 
