@@ -49,5 +49,5 @@ Distributed under the Unlicense. See [LICENSE](LICENSE) for more information.
 
 ## Contributing
 
-Check the [CONTRIBUTING](CONTRIBUTING) file for details, but, in advance, it is pretty intuitive and straightforward.
+Check the [CONTRIBUTING](CONTRIBUTING.md) file for details, but, in advance, it is pretty intuitive and straightforward.
 
