@@ -22,9 +22,11 @@
 
 - [LICENSE](LICENSE): Open Source License describing how to use, change, and distribute this repository; &
 
+- data: Folder for miscellaneous data files needed;
+
 - build: Build information;
 
-- version: Holds the current version of the software, sometimes named release;
+- version: Holds the current version of the software, sometimes named release; &
 
 - [CONTRIBUTING](CONTRIBUTING): File describing how to contribute with this repository;
 
